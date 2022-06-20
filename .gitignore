@@ -1,0 +1,6 @@
+command to compile servlet
+
+cd C:\apache-tomcat-9.0.62\webapps\quizapp\java>
+
+javac -cp ;C:/    -d ../WEB-INF/classes AdminDisplay.java DisplayScore.java InsertCredentials.java InsertDetails.java RenderQuiz.java UserAuthenticate.java
+
